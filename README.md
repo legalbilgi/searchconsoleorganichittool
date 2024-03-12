@@ -1,3 +1,4 @@
+Youtube Videosunu izlemek için tıklayınız.
 [![Google Search Console Organic Hit Tool - legalbilgi.com](https://img.youtube.com/vi/LuQzJQisw-k/maxresdefault.jpg)](https://www.youtube.com/watch?v=LuQzJQisw-k)
 
 
