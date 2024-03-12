@@ -1,3 +1,6 @@
+[![Google Search Console Organic Hit Tool - legalbilgi.com](https://img.youtube.com/vi/LuQzJQisw-k/maxresdefault.jpg)](https://www.youtube.com/watch?v=LuQzJQisw-k)
+
+
 # Search Console Organic Hit Tool
 
 Bu araç, Google Search Console organik trafik verileri yollamak için kullanılır. Belirttiğiniz anahtar kelime ve belirttiğiniz başlık üzerinden işlem yapmaktadır. İPV6 PROXY KULLANMANIZ GEREKMEKTEDİR.
