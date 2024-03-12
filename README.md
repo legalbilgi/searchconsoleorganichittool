@@ -1,6 +1,6 @@
 # Search Console Organic Hit Tool
 
-Bu araç, Google Search Console organik trafik verileri yollamak için kullanılır. Belirttiğiniz anahtar kelime ve belirttiğiniz başlık üzerinden işlem yapmaktadır. 
+Bu araç, Google Search Console organik trafik verileri yollamak için kullanılır. Belirttiğiniz anahtar kelime ve belirttiğiniz başlık üzerinden işlem yapmaktadır. İPV6 PROXY KULLANMANIZ GEREKMEKTEDİR.
 
 ## Kurulum
 
