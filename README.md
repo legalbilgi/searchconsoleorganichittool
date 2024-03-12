@@ -34,3 +34,5 @@ Sit back and watch. :)
 
 
 # DON'T FORGET!!! THE PAGE TO WHICH YOU WILL SEND MUST BE INDEXED IN GOOGLE.
+
+# #google-search-console
